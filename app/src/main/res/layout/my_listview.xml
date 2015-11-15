@@ -15,8 +15,8 @@
         android:layout_height="wrap_content"
         android:text="New Text"
         android:id="@+id/textView2"
-        android:textSize="@dimen/h1"
-        android:layout_gravity="center_horizontal"
-        android:textColor="@color/text" />
+        android:textColor="@color/text"
+        android:layout_gravity="center_vertical"
+        android:textSize="@dimen/h2" />
 
 </LinearLayout>
